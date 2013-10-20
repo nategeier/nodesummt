@@ -2,7 +2,7 @@ Node Summit Speech
 =========
 
 ###Nate Geier Bio
-Nate started Interactive Balance in 2009 building custom LMS's in Flash and PHP, launching successfully to over 2,000 hotels. Two years later its parent company wanted the LMS for all 17 major brands worldwide. In early 2012, faced with mobile issues, Interactive Balance made a gamble on the future of Node 0.6 and rewrote everything using ExpressJS. The gamble is paying off in spades in every aspect from the client side to server.
+Nate started Interactive Balance in 2009 building custom Learning Management Systems in Flash and PHP for a major international hotel chain, launching successfully to over 2,000 hotels. Two years later its parent company wanted the LMS for all 17 major brands worldwide. In early 2012, faced with mobile issues, Interactive Balance gambled on the future of Node 0.6 and rewrote everything using ExpressJS. The gamble is paying off in spades.
 
 >Nate Geier *Owner*  
 >[Interactive Balance](http://interactivebalance.com)  
