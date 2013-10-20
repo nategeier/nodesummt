@@ -36,6 +36,6 @@ I wish SmartyPants used named entities like `&mdash;`
 instead of decimal-encoded entites like `&#8212;`.
 
 
-  function some(){
-    //code
-  }
+    function some(){
+      //code
+    }
