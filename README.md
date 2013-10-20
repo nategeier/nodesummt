@@ -1,41 +1,20 @@
-nodesummt
+Node Summit Speech
 =========
 
 Node Summit Speech
 
-Check out some visuals at [Interactive Balance](http://interactivebalance.com)
+###Nate Geier
+Nate started Interactive Balance in 2009 by building a custom LMS, written in Flash and PHP, launching successfully, deploying to over 2,000 Hotels. Two years later its parent company wanted it for all 17 major brands worldwide. Faced with mobile issues, in early 2012, Node version 0.6, Interactive Balance made a gamble on the future of Node and rewrote everything using ExpressJS. The gamble is paying off in spades.
 
-#Leanring markdown
-##Leanring markdown
------------
-###Leanring markdown
+All work is proprioerty and cant show via the web but check us out anyways at [Interactive Balance](http://interactivebalance.com)
 
-*Theme Name:* Theme
-*Author:* Suhail Dawood
-*Created:* 08/08/2012
-**Version:** 1.0.1
 ***
-Thank you for your purchase! If you have any questions about this theme, feel free to e-mail me at **email@tutsplus.com** or tweet me **@tutsplus**
+Nate Geier *Owner*
+Interactive Balance
+800 NW 6th Ave, #201
+Portland, OR 97209
 ***
 
+##Rough Speech
 
-#A list
-===
-+ something
-+ another
-+ a last
-
-also:
-- ddd
-- ddddd
-
-
-I strongly recommend against using any `<blink>` tags.
-
-I wish SmartyPants used named entities like `&mdash;`
-instead of decimal-encoded entites like `&#8212;`.
-
-
-    function some(){
-      //code
-    }
+Hello if you are looking for a wiz guy who knows eveythign about node and the web in general this this isnt the talk. I don
