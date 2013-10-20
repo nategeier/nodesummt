@@ -3,6 +3,8 @@ nodesummt
 
 Node Summit Speech
 
+Check out some visuals at [Interactive Balance](http://interactivebalance.com)
+
 #Leanring markdown
 ##Leanring markdown
 -----------
@@ -26,3 +28,9 @@ Thank you for your purchase! If you have any questions about this theme, feel fr
 also:
 - ddd
 - ddddd
+
+
+I strongly recommend against using any `<blink>` tags.
+
+I wish SmartyPants used named entities like `&mdash;`
+instead of decimal-encoded entites like `&#8212;`.
