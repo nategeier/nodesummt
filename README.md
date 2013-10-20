@@ -10,9 +10,9 @@ All work is proprioerty and cant show via the web but check us out anyways at [I
 
 ***
 Nate Geier *Owner*
-Interactive Balance
-800 NW 6th Ave, #201
-Portland, OR 97209
+>Interactive Balance
+>800 NW 6th Ave, #201
+>Portland, OR 97209
 ***
 
 ##Rough Speech
